@@ -1,0 +1,14 @@
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\bin\Debug\net10.0\Wetterdaten-übung.exe
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\bin\Debug\net10.0\Wetterdaten-übung.deps.json
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\bin\Debug\net10.0\Wetterdaten-übung.runtimeconfig.json
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\bin\Debug\net10.0\Wetterdaten-übung.dll
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\bin\Debug\net10.0\Wetterdaten-übung.pdb
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\obj\Debug\net10.0\Wetterdaten-übung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\obj\Debug\net10.0\Wetterdaten-übung.AssemblyInfoInputs.cache
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\obj\Debug\net10.0\Wetterdaten-übung.AssemblyInfo.cs
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\obj\Debug\net10.0\Wetterdaten-übung.csproj.CoreCompileInputs.cache
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\obj\Debug\net10.0\Wetterdaten-übung.dll
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\obj\Debug\net10.0\refint\Wetterdaten-übung.dll
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\obj\Debug\net10.0\Wetterdaten-übung.pdb
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\obj\Debug\net10.0\Wetterdaten-übung.genruntimeconfig.cache
+C:\Users\OlzemJ\source\repos\Wetterdaten-übung\Wetterdaten-übung\obj\Debug\net10.0\ref\Wetterdaten-übung.dll
